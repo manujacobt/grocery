@@ -1,0 +1,98 @@
+[
+    {
+        "sno":"1",
+        "name":"Rice",
+        "qty":"1",
+        "unit":"Kg",
+        "dpt":"General",
+        "notes":"Matta"
+    },
+    {
+        "sno":"2",
+        "name":"Atta",
+        "qty":"1",
+        "unit":"Kg",
+        "dpt":"General",
+        "notes":"Maida free"
+    },
+    {
+        "sno":"3",
+        "name":"Orange",
+        "qty":"1",
+        "unit":"Kg",
+        "dpt":"Fruits",
+        "notes":"Fresh"
+    },
+    {
+        "sno":"4",
+        "name":"Eggs",
+        "qty":"10",
+        "unit":"Nos",
+        "dpt":"General",
+        "notes":"Chicken egg"
+    },
+    {
+        "sno":"5",
+        "name":"chicken",
+        "qty":"2",
+        "unit":"Kg",
+        "dpt":"Meat",
+        "notes":"Cleaned"
+    },    
+    {
+        "sno":"6",
+        "name":"Vegetables",
+        "qty":"500",
+        "unit":"grams",
+        "dpt":"vegetable",
+        "notes":"For sambar"
+    },
+    {
+        "sno":"7",
+        "name":"Sambar powder",
+        "qty":"100",
+        "unit":"gram",
+        "dpt":"Spice powder",
+        "notes":"good brand"
+    },{
+        "sno":"8",
+        "name":"Chicken Masala",
+        "qty":"100",
+        "unit":"gram",
+        "dpt":"Spice powder",
+        "notes":"good brand"
+    },{
+        "sno":"9",
+        "name":"lady finger",
+        "qty":"1",
+        "unit":"Kg",
+        "dpt":"Vegetable",
+        "notes":"tender"
+    },
+    {
+        "sno":"10",
+        "name":"Milk",
+        "qty":"1",
+        "unit":"ltr",
+        "dpt":"Dairy",
+        "notes":"Milma"
+    },
+    {
+        "sno":"11",
+        "name":"Coconut Oil",
+        "qty":"1",
+        "unit":"Kg",
+        "dpt":"Edible oil",
+        "notes":"pure"
+    }
+
+
+
+
+
+
+
+
+
+
+]
