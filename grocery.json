@@ -1,5 +1,14 @@
 [
     {
+       
+        "sno":"SERIAL NUMBER",
+        "name":"NAMES",
+        "qty":"QUANTITY",
+        "unit":"UNIT",
+        "dpt":"DEPARTMENT",
+        "notes":"NOTES"
+    },
+    {
         "sno":"1",
         "name":"Rice",
         "qty":"1",

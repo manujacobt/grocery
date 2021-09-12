@@ -16,6 +16,11 @@ $("button").click(function click(){
             grocerydata += `</tr>`;
         });
         $('#grocery-list').append(grocerydata); 
+        var row= document.getElementsByTagName("tr");
+        row[0].style.color="black";
+        row[0].style.fontSize="large";
+        row[0].style.fontWeight="bold";
+        row[0].style.background="green";
     });
     });
     $("button").attr("disabled",true);
